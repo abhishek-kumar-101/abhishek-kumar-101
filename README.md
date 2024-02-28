@@ -6,7 +6,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/abhishek-kumar-shaw-2a90b6261](www.linkedin.com/in/abhishek-kumar-shaw-2a90b6261)
+- 👨‍💻 All of my projects are available at [https://github.com/abhishek-kumar-101](https://github.com/abhishek-kumar-101)
 
 - 📝 I regularly write articles on [https://medium.com/@shawabhishek2018](https://medium.com/@shawabhishek2018)
 
